@@ -24,5 +24,5 @@ ViperScan: Automated Web Vulnerability Scanner
    source venv/bin/activate  # for Linux/Mac
    venv\Scripts\activate     # for Windows
    pip install -r requirements.txt
-   python3 vv.py
+   python3 powersc_viper.py
 enjoy!!
